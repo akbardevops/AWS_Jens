@@ -144,7 +144,7 @@ The application uses Log4j to generate a log file named ``snakes.log``. The proj
 
 ## Project Contents
 ## AKbar
-# AKBAR MOHAMMAD
+
 This project is organized as follows (some files not shown):
 
 	├── LICENSE             - License
