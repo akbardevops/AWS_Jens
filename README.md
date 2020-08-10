@@ -143,7 +143,7 @@ Exit SSH:
 The application uses Log4j to generate a log file named ``snakes.log``. The project includes a configuration file in ``src/.ebextensions`` that configures Elastic Beanstalk to include ``snakes.log`` when you request tailed logs.
 
 ## Project Contents
-
+## AKBAR MOHAMMAD
 This project is organized as follows (some files not shown):
 
 	├── LICENSE             - License
