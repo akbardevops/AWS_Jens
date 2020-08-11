@@ -1,4 +1,4 @@
-# eb-tomcat-snakes....Jenkins Project snakes..
+# eb-tomcat-snakes
 Tomcat application that shows the use of RDS in a Java EE web application in AWS Elastic Beanstalk. The project shows the use of Servlets, JSPs, Simple Tag Support, Tag Files, JDBC, SQL, Log4J, Bootstrap, Jackson, and Elastic Beanstalk configuration files.
 
 ## INSTRUCTIONS
@@ -143,7 +143,6 @@ Exit SSH:
 The application uses Log4j to generate a log file named ``snakes.log``. The project includes a configuration file in ``src/.ebextensions`` that configures Elastic Beanstalk to include ``snakes.log`` when you request tailed logs.
 
 ## Project Contents
-## comment session001
 
 This project is organized as follows (some files not shown):
 
